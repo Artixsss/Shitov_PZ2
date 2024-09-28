@@ -51,10 +51,5 @@ namespace Shitov_PZ2
             Task5 task5 = new Task5();
             task5.Show();
         }
-
-        private void btnBack_Click(object sender, RoutedEventArgs e)
-        {
-            // Логика для кнопки "Назад"
-        }
     }
 }
